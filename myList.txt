@@ -1,4 +1,2 @@
 1. First
-2. Third
-3. Second
-4. Fourth
+2. Second
